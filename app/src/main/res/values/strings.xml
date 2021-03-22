@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ConvertImgApp</string>
+    <string name="btn_text_convert_img">Convert Img</string>
+
+    <string name="title_select_img">Выбрать картинку</string>
+    <string name="btn_cancel_dialog">Отмена</string>
+    <string name="text_dialog_message">Подождите, идет конвертация!!!</string>
+    <string name="toast_success_convert">Конвертация успешно завершена!</string>
+    <string name="toast_cancel_convert">Конвертация отменена!</string>
+    <string name="toast_error_convert">Ошибка конвертации!</string>
 </resources>
